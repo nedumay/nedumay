@@ -17,8 +17,10 @@
 </h1>
 
 ### :woman_technologist: About Me:
-I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-Here you will see my mobile app (in the future, maybe not only mobile), as well as code templates for projects. Find a lot of useful things. Templates for working with Retrofit2, Room, RxJava\Coroutine in Java & Kotlin. This is not all, I try to replenish the knowledge base
+Hello, I am an Android developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Here you will see my projects and interesting solutions. My main stack: Kotlin, MVVM + Clean Architecture (SOLID, DRY, KISS, DI), Coroutines, Room DataBase, Retrofit2, Dagger2, Live Data/Flow.
+There are also solutions using: Java, RxJava, Firebase, Jatpack Compose.
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
