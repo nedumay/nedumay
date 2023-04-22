@@ -18,7 +18,8 @@
 
 ### :woman_technologist: About Me:
 Hello, I am an Android developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-Here you will see my projects and interesting solutions. My main stack: Kotlin, MVVM + Clean Architecture (SOLID, DRY, KISS, DI), Coroutines, Room DataBase, Retrofit2, Dagger2, Live Data/Flow.
+Here you will see my projects and interesting solutions. 
+Stack: Kotlin, MVVM + Clean Architecture (SOLID, DRY, KISS, DI), Coroutines, Room DataBase, Retrofit2, Dagger2, Live Data/Flow.
 There are also solutions using: Java, RxJava, Firebase, Jatpack Compose.
 
 
