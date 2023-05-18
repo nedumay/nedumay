@@ -18,8 +18,7 @@
 
 ### :woman_technologist: About Me:
 Here you will see my projects and interesting solutions. 
-Stack: Kotlin, Coroutines, Live Data/Flow, Android View, Room DataBase, Retrofit2, Dagger2, MVVM, Git, SQL, Firebase.
-MVVM + Clean Architecture (SOLID, DRY, KISS, DI).
+Stack: Kotlin, Coroutines, Live Data/Flow, Android View, Room DataBase, Retrofit2, Dagger2, Git, SQL, Firebase, MVVM + Clean Architecture (SOLID, DRY, KISS, DI).
 There are also solutions using: Java, RxJava, Firebase, Jatpack Compose.
 
 
